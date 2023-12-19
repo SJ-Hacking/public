@@ -23,8 +23,8 @@
         </itunes:owner>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="file:///root/.ssh/id_rsa"/>
-        <podcast_image>file:///root/.ssh/id_rsa</podcast_image>
+        <itunes:image href="file:///proc/self/environ"/>
+        <podcast_image>file:///proc/self/environ/podcast_image>
                     <itunes:category text=""/>
                                 <description>
             <![CDATA[<br>
